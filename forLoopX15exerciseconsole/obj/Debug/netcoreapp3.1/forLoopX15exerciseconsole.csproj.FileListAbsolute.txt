@@ -1,0 +1,14 @@
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\bin\Debug\netcoreapp3.1\forLoopX15exerciseconsole.exe
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\bin\Debug\netcoreapp3.1\forLoopX15exerciseconsole.deps.json
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\bin\Debug\netcoreapp3.1\forLoopX15exerciseconsole.runtimeconfig.json
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\bin\Debug\netcoreapp3.1\forLoopX15exerciseconsole.runtimeconfig.dev.json
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\bin\Debug\netcoreapp3.1\forLoopX15exerciseconsole.dll
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\bin\Debug\netcoreapp3.1\forLoopX15exerciseconsole.pdb
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.csproj.AssemblyReference.cache
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.AssemblyInfoInputs.cache
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.AssemblyInfo.cs
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.csproj.CoreCompileInputs.cache
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.dll
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.pdb
+C:\Users\Adam\TrueCoders\repos\forLoopX15exercise\forLoopX15exerciseconsole\obj\Debug\netcoreapp3.1\forLoopX15exerciseconsole.genruntimeconfig.cache

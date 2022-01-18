@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "forLoopX15exerciseconsole/1.0.0": {
+        "runtime": {
+          "forLoopX15exerciseconsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "forLoopX15exerciseconsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
